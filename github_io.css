@@ -90,6 +90,7 @@ hr.small {
 /*Titulos CV*/
 .cv-icon-title{
     width: 90px;
+    height: 90px;
     padding: 0 5% 0 0;
 }
 .cv-titles{
@@ -116,6 +117,10 @@ hr.small {
     width: 50px;
     height: 45px;
     padding: 2% 5% 0 0;
+}
+.upv-lang-icon{
+    width: 40px;
+    height: 35px;
 }
 .cleop{
     width: 75px;
