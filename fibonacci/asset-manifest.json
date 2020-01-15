@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fibonacci/static/css/main.5539d330.chunk.css",
+    "main.js": "/fibonacci/static/js/main.7b1375e7.chunk.js",
+    "main.js.map": "/fibonacci/static/js/main.7b1375e7.chunk.js.map",
+    "runtime-main.js": "/fibonacci/static/js/runtime-main.133268bd.js",
+    "runtime-main.js.map": "/fibonacci/static/js/runtime-main.133268bd.js.map",
+    "static/js/2.a8865814.chunk.js": "/fibonacci/static/js/2.a8865814.chunk.js",
+    "static/js/2.a8865814.chunk.js.map": "/fibonacci/static/js/2.a8865814.chunk.js.map",
+    "index.html": "/fibonacci/index.html",
+    "precache-manifest.159f7207e67b537b2006540cd0f68a76.js": "/fibonacci/precache-manifest.159f7207e67b537b2006540cd0f68a76.js",
+    "service-worker.js": "/fibonacci/service-worker.js",
+    "static/css/main.5539d330.chunk.css.map": "/fibonacci/static/css/main.5539d330.chunk.css.map",
+    "static/js/2.a8865814.chunk.js.LICENSE": "/fibonacci/static/js/2.a8865814.chunk.js.LICENSE",
+    "static/media/coverwallet-logo.svg": "/fibonacci/static/media/coverwallet-logo.99687093.svg",
+    "static/media/formula.png": "/fibonacci/static/media/formula.d992b559.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.133268bd.js",
+    "static/js/2.a8865814.chunk.js",
+    "static/css/main.5539d330.chunk.css",
+    "static/js/main.7b1375e7.chunk.js"
+  ]
+}
